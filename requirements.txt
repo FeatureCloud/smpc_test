@@ -1,0 +1,10 @@
+bottle
+jsonpickle
+joblib
+numpy
+bios
+pydot
+pyyaml
+pandas
+scipy
+featurecloud
